@@ -183,7 +183,7 @@
                         }
                         
                         if(badgeClass) {
-                            badgeHtml = `<span class="discount-badge ${badgeClass}">${produto.tipo_desconto}</span>`;
+                            badgeHtml = `<span class="discount-badge ${badgeClass}" data-desconto= "${produto.tipo_desconto}" >${produto.tipo_desconto}</span>`;
                         }
                     }
 
@@ -200,11 +200,11 @@
                                 </a>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">${produto.nome}</h5>
+                                <h5 class="card-title" data-nome="${produto.nome}">${produto.nome}</h5>
                                 <p><strong>Desconto:</strong> ${badgeHtml}</p>
-                                <p class="card-price"><strong>Valor:</strong> ${precoFormatado}</p>
-                                <p><strong>EAN:</strong> ${produto.ean}</p>
-                                <p><strong>Disponível:</strong> ${produto.qtd_disponivel} un.</p>
+                                <p class="card-price" data-preco="${precoFormatado}"><strong>Valor:</strong> ${precoFormatado}</p>
+                                <p data-ean=${produto.ean}><strong>EAN:</strong> ${produto.ean}</p>
+                                <p data-qtd="${produto.qtd_disponivel}"><strong>Disponível:</strong> ${produto.qtd_disponivel} un.</p>
                             </div>
                             <div class="card-footer">
                                 <a href="#" class="btn btn-success w-100 fw-bold">
