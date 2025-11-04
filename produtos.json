@@ -1,0 +1,162 @@
+[
+    {
+        "nome": "Veja Gold 500ml",
+        "preco": 6.59,
+        "ean": 134201,
+        "tipo_desconto": "bronze",
+        "qtd_disponivel": 3,
+        "imagem": "Veja Gold 500ml.png"
+    },
+    {
+        "nome": "PANETTONE BAUDUCCO 400g ",
+        "preco": 28.95,
+        "ean": 157823,
+        "tipo_desconto": "ouro",
+        "qtd_disponivel": 7,
+        "imagem": "PANETTONE BAUDUCCO 400g .png"
+    },
+    {
+        "nome": "Leite Em Pó Ninho Integral Lata 380g",
+        "preco": 17.70,
+        "ean": 198456,
+        "tipo_desconto": "bronze",
+        "qtd_disponivel": 3,
+        "imagem": "Leite Em Pó Ninho Integral Lata 380g.png"
+    },
+    {
+        "nome": "Azeite de Oliva Gallo 500ml",
+        "preco": 29.99,
+        "ean": 123457,
+        "tipo_desconto": "bronze",
+        "qtd_disponivel": 2,
+        "imagem": "Azeite de Oliva Gallo 500ml.png"
+    },
+    {
+        "nome": "Cerveja Heineken Premium Garrafa 6 Long Neck 330ml",
+        "preco": 47.80,
+        "ean": 176540,
+        "tipo_desconto": "ouro",
+        "qtd_disponivel": 4,
+        "imagem": "Cerveja Heineken Premium Garrafa 6 Long Neck 330ml.png"
+    },
+    {
+        "nome": "Escova Dental Macia Infusão de Carvão Colgate",
+        "preco": 11.80,
+        "ean": 143210,
+        "tipo_desconto": "ouro",
+        "qtd_disponivel": 3,
+        "imagem": "Escova Dental Macia Infusão de Carvão Colgate.png"
+    },
+    {
+        "nome": "Água De Coco Esterilizada Kero Coco 1L",
+        "preco": 14.25,
+        "ean": 165432,
+        "tipo_desconto": "ouro",
+        "qtd_disponivel": 2,
+        "imagem": "Água De Coco Esterilizada Kero Coco 1L.png"
+    },
+    {
+        "nome": "Amaciante Downy Concentrado 3L",
+        "preco": 42.98,
+        "ean": 190001,
+        "tipo_desconto": "prata",
+        "qtd_disponivel": 1,
+        "imagem": "Amaciante Downy Concentrado 3L.png"
+    },
+    {
+        "nome": "Picanha Resfriada Maturatta Friboi 1kg",
+        "preco": 98.90,
+        "ean": 110234,
+        "tipo_desconto": "prata",
+        "qtd_disponivel": 1,
+        "imagem": "Picanha Resfriada Maturatta Friboi 1kg.png"
+    },
+    {
+        "nome": "Café Torrado e Moído Tradicional Melitta 500g",
+        "preco": 33.90,
+        "ean": 142578,
+        "tipo_desconto": "ouro",
+        "qtd_disponivel": 4,
+        "imagem": "Café Torrado e Moído Tradicional Melitta 500g.png"
+    },
+    {
+        "nome": "Batata Frita Ondulada Original Elma Chips Ruffles Pacote 115g ",
+        "preco": 12.33,
+        "ean": 132469,
+        "tipo_desconto": "prata",
+        "qtd_disponivel": 4,
+        "imagem": "Batata Frita Ondulada Original Elma Chips Ruffles Pacote 115g .png"
+    },
+    {
+        "nome": "Arroz Agulhinha Longo Fino Tipo 1 TIO JOÃO 2kg",
+        "preco": 15.29,
+        "ean": 199998,
+        "tipo_desconto": "bronze",
+        "qtd_disponivel": 2,
+        "imagem": "Arroz Agulhinha Longo Fino Tipo 1 TIO JOÃO 2kg.png"
+    },
+    {
+        "nome": "Salgadinho Batata Frita Pringles® Original 104g ",
+        "preco": 11.98,
+        "ean": 145679,
+        "tipo_desconto": "ouro",
+        "qtd_disponivel": 4,
+        "imagem": "Salgadinho Batata Frita Pringles® Original 104g .png"
+    },
+    {
+        "nome": "Água Mineral Minalba Sem Gás 510ml C/ 12 Un",
+        "preco": 23.90,
+        "ean": 113341,
+        "tipo_desconto": "prata",
+        "qtd_disponivel": 4,
+        "imagem": "Água Mineral Minalba.png"
+    },
+    {
+        "nome": "Refrigerante sem Açúcar Coca-Cola Zero 2L",
+        "preco": 9.89,
+        "ean": 129034,
+        "tipo_desconto": "ouro",
+        "qtd_disponivel": 4,
+        "imagem": "Refrigerante sem Açúcar Coca-Cola Zero Garrafa 2L.png"
+    },
+    {
+        "nome": "Pão de Forma Panco Premium Pacote 500g",
+        "preco": 11.50,
+        "ean": 160207,
+        "tipo_desconto": "bronze",
+        "qtd_disponivel": 4,
+        "imagem": "Pão de Forma Panco Premium Pacote 500g.png"
+    },
+    {
+        "nome": "Salgadinho Batata Frita Pringles® Creme & Cebola 109g  ",
+        "preco": 9.80,
+        "ean": 175999,
+        "tipo_desconto": "bronze",
+        "qtd_disponivel": 6,
+        "imagem": "Salgadinho Batata Frita Pringles® Creme & Cebola 109g .png"
+    },
+    {
+        "nome": "Papel Higiênico Folha Dupla Neutro Personal",
+        "preco": 14.99,
+        "ean": 180123,
+        "tipo_desconto": "prata",
+        "qtd_disponivel": 5,
+        "imagem": "Papel Higiênico Folha Dupla Neutro Personal.png"
+    },
+    {
+        "nome": "Ketchup Heinz Tradicional 1,033KG ",
+        "preco": 21.99,
+        "ean": 101234,
+        "tipo_desconto": "ouro",
+        "qtd_disponivel": 3,
+        "imagem": "Ketchup Heinz Tradicional 1,033KG .png"
+    },
+    {
+        "nome": "Arroz Branco Tipo 1 Qualitá Pacote 2kg",
+        "preco": 12.70,
+        "ean": 198001,
+        "tipo_desconto": "bronze",
+        "qtd_disponivel": 7,
+        "imagem": "Arroz Branco Tipo 1 Qualitá Pacote 2kg.png"
+    }
+]
